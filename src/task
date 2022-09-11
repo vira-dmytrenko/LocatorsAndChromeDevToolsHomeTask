@@ -1,0 +1,18 @@
+Check that you know:
+
+1) Types of locators used in Selenium
+2) Elements locating performance
+3) Building reliable selectors
+1) Whan is Chrome dev tools
+2) How to view and search in DOM tree using dev tools
+3) Running JS scripts in Chrome console
+4) XPath 1.0 Axes
+
+
+
+Then using WebDriver:
+1) Log in to a Gmail website
+2) Create a simple mail
+3) Send this mail to another test user
+4) Use at least 4 types of locators on the home task.
+
